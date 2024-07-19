@@ -4,6 +4,11 @@
 
 
 ## Distributions
+
+
+A lista está quase correta, mas há algumas correções e ajustes que podem ser feitos para melhorar a clareza e a precisão. Aqui está a lista revisada:
+
+## Distributions
 ### Normal distribution (Gaussian distribution)
 ### Binomial distribution
 ### Poisson distribution
@@ -25,83 +30,85 @@
 ### Erlang distribution
 ### Rayleigh distribution
 ### Gumbel distribution
-Logistic distribution
-Pareto distribution
-Beta-binomial distribution
-Tweedie distribution
-Zipf distribution
-Skellam distribution
-Power-law distribution
-Log-logistic distribution
-Burr distribution
-Generalized extreme value distribution
-Kumaraswamy distribution
-Negative hypergeometric distribution
-Noncentral chi-squared distribution
-Noncentral F-distribution
-Noncentral t-distribution
-Rice distribution
-Exponentially modified Gaussian distribution
-Logistic-normal distribution
-Triangular distribution
-Johnson SB distribution
-Johnson SU distribution
-Arcsine distribution
-Wigner semicircle distribution
-Wald distribution (Inverse Gaussian distribution)
-Generalized Pareto distribution
-Hyperbolic secant distribution
-Bessel distribution
-Dagum distribution
-Dirichlet distribution
-Multivariate normal distribution
-Bernoulli distribution
-Inverse Gaussian distribution
-von Mises distribution
-Levy distribution
-Nakagami distribution
-Coxian distribution
-Discrete uniform distribution
-Burr Type XII distribution
-Frechet distribution
-Gompertz distribution
-Half-normal distribution
-Log-Cauchy distribution
-Maxwell-Boltzmann distribution
-Nakagami-m distribution
-Normal inverse Gaussian distribution
-Rademacher distribution
-Reciprocal distribution
-Semicircular distribution
-Stable distribution
-Thomas distribution
-Truncated normal distribution
-Truncated Pareto distribution
-Uniform discrete distribution
-Uniform continuous distribution
-Von Mises-Fisher distribution
-Weibull-Gamma distribution
-Weibull-inverse Gaussian distribution
-Zeta distribution
-Z-inverse Gaussian distribution
-Logarithmic distribution
-Lambert W distribution
-Generalized Gamma distribution
-Gamma-Gamma distribution
-Gamma-Weibull distribution
-Compound Poisson distribution
-Confluent Hypergeometric distribution
-Discrete Pareto distribution
-Double Pareto-lognormal distribution
-Exponentially modified inverse Gaussian distribution
-Exponentially truncated normal distribution
-Finite mixture distribution
-Fisher's z-distribution
-Folded normal distribution
-Generalized Beta distribution
-Half-Cauchy distribution
-Kumaraswamy-logarithmic distribution
-Landau distribution
-Multivariate t-distribution
-Normal-Wishart distribution
+### Logistic distribution
+### Pareto distribution
+### Beta-binomial distribution
+### Tweedie distribution
+### Zipf distribution
+### Skellam distribution
+### Power-law distribution
+### Log-logistic distribution
+### Burr distribution
+### Generalized extreme value distribution
+### Kumaraswamy distribution
+### Negative hypergeometric distribution
+### Noncentral chi-squared distribution
+### Noncentral F-distribution
+### Noncentral t-distribution
+### Rice distribution
+### Exponentially modified Gaussian distribution
+### Logistic-normal distribution
+### Triangular distribution
+### Johnson SB distribution
+### Johnson SU distribution
+### Arcsine distribution
+### Wigner semicircle distribution
+### Wald distribution (Inverse Gaussian distribution)
+### Generalized Pareto distribution
+### Hyperbolic secant distribution
+### Bessel distribution
+### Dagum distribution
+### Dirichlet distribution
+### Multivariate normal distribution
+### Bernoulli distribution
+### Inverse Gaussian distribution
+### von Mises distribution
+### Levy distribution
+### Nakagami distribution
+### Coxian distribution
+### Discrete uniform distribution
+### Burr Type XII distribution
+### Frechet distribution
+### Gompertz distribution
+### Half-normal distribution
+### Log-Cauchy distribution
+### Maxwell-Boltzmann distribution
+### Nakagami-m distribution
+### Normal inverse Gaussian distribution
+### Rademacher distribution
+### Reciprocal distribution
+### Semicircular distribution
+### Stable distribution
+### Thomas distribution
+### Truncated normal distribution
+### Truncated Pareto distribution
+### Discrete uniform distribution
+### Continuous uniform distribution
+### Von Mises-Fisher distribution
+### Weibull-Gamma distribution
+### Weibull-inverse Gaussian distribution
+### Zeta distribution
+### Inverse Gaussian distribution (Z-inverse Gaussian distribution)
+### Logarithmic distribution
+### Lambert W distribution
+### Generalized Gamma distribution
+### Gamma-Gamma distribution
+### Gamma-Weibull distribution
+### Compound Poisson distribution
+### Confluent hypergeometric distribution
+### Discrete Pareto distribution
+### Double Pareto-lognormal distribution
+### Exponentially modified inverse Gaussian distribution
+### Exponentially truncated normal distribution
+### Finite mixture distribution
+### Fisher's z-distribution
+### Folded normal distribution
+### Generalized Beta distribution
+### Half-Cauchy distribution
+### Kumaraswamy-logarithmic distribution
+### Landau distribution
+### Multivariate t-distribution
+### Normal-Wishart distribution
+
+
 
