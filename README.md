@@ -3,10 +3,6 @@
 
 
 
-## Distributions
-
-
-A lista está quase correta, mas há algumas correções e ajustes que podem ser feitos para melhorar a clareza e a precisão. Aqui está a lista revisada:
 
 ## Distributions
 ### Normal distribution (Gaussian distribution)
